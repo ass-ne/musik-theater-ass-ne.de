@@ -1,0 +1,4 @@
+/* globale Styles für alle Hosting-Projekte */
+@import "/common/style/slim/hosting.css";
+/* lokale Styles speziell für Hosting DE */
+@import "slim/shop.css";

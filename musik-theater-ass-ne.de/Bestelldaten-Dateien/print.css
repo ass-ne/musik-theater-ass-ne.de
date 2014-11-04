@@ -1,0 +1,22 @@
+@import "screen.css";
+
+#header, #footer, #popup_footer, #breadcrumb, #menu, #cart, #content .toplink, #popup_header img, #top_navigation, table.popupheader img {
+  display: none !important;
+}
+
+#popup img.popuplogo {
+  display: inline !important;
+}
+
+html,body{
+  margin: 0 !important;
+  padding: 0 !important;
+  height: auto !important;
+  width: auto !important;
+}
+
+#content, #frame{
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 625px !important;
+}
